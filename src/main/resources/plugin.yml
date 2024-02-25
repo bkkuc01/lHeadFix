@@ -1,0 +1,4 @@
+name: lHeadFix
+version: '${version}'
+main: pl.bkkuc.lheadfix.Plugin
+api-version: '1.16'
